@@ -1,0 +1,28 @@
+{
+  "id": "file-tree",
+  "displayName": "File Tree",
+  "description": "Shows a compact file tree of the thread workspace on the right. Open a file, drop its path into chat, or hand the file to Finder without leaving the thread. Click opens BB's default preview; right-click copies a relative or absolute path, copies the file itself for Finder paste, or reveals the item in Finder. Paths written in chat jump the tree to that file, including another folder under your search roots. Copy File and Open in Finder run on the machine that holds the files — file clipboard on macOS and Windows, Finder reveal on macOS.",
+  "icon": "Folder",
+  "tags": [
+    "files",
+    "workspace",
+    "finder",
+    "clipboard",
+    "preview",
+    "paths",
+    "explorer"
+  ],
+  "author": {
+    "name": "Yuriy Egorov",
+    "github": "fzrx-ego",
+    "url": "https://yuriy-egorov.pages.dev"
+  },
+  "category": "file-viewers-and-editors",
+  "overview": "./overview/file-tree.md",
+  "source": {
+    "git": {
+      "url": "https://github.com/fzrx-ego/bb-plugin-file-tree.git",
+      "range": "^0.10.1"
+    }
+  }
+}
