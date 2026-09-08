@@ -5,16 +5,20 @@
   "icon": "Folder",
   "tags": [
     "files",
-    "file-tree",
     "workspace",
-    "file-preview",
     "finder",
+    "clipboard",
+    "preview",
+    "paths",
+    "explorer",
+    "file-tree",
+    "file-preview",
     "navigation"
   ],
   "author": {
-    "name": "FZRX",
+    "name": "Yuriy Egorov",
     "github": "fzrx-ego",
-    "url": "https://github.com/fzrx-ego"
+    "url": "https://yuriy-egorov.pages.dev"
   },
   "category": "file-viewers-and-editors",
   "source": {
