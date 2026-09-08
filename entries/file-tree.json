@@ -1,0 +1,27 @@
+{
+  "id": "file-tree",
+  "displayName": "File Tree",
+  "description": "Find the file an agent mentions and keep the workspace tree beside the conversation. Search by name or path, open previews, add relative paths to drafts, and reveal or copy files from the machine that owns them. Project threads stay rooted in their checkout; personal threads can browse a configured folder. Requires local file access on the BB machine; Finder reveal is macOS-only.",
+  "icon": "Folder",
+  "tags": [
+    "files",
+    "file-tree",
+    "workspace",
+    "file-preview",
+    "finder",
+    "navigation"
+  ],
+  "author": {
+    "name": "FZRX",
+    "github": "fzrx-ego",
+    "url": "https://github.com/fzrx-ego"
+  },
+  "category": "file-viewers-and-editors",
+  "source": {
+    "git": {
+      "url": "https://github.com/fzrx-ego/bb-plugin-file-tree.git",
+      "range": "^0.13.1"
+    }
+  },
+  "overview": "./overview/file-tree.md"
+}
