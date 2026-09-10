@@ -24,7 +24,7 @@
   "source": {
     "git": {
       "url": "https://github.com/fzrx-ego/bb-plugin-file-tree.git",
-      "range": "^0.13.1"
+      "range": "^0.14.0"
     }
   },
   "overview": "./overview/file-tree.md"
