@@ -1,7 +1,7 @@
 {
   "id": "close-tab",
   "displayName": "Close Tab",
-  "description": "Close a preview tab without hunting for the ×. Double-click, middle-click, right-click for Close / Close others / Close tabs to the right, or press Control+W. The palette command closes the active document tab. The plugin clicks the tab's own close control; a three-finger click on macOS is resolved by cursor position.",
+  "description": "Close the preview tab you just finished without hunting for the ×. Double-click, middle-click, or right-click for Close / Close others / Close tabs to the right — the next file stays in the thread. Control+W and the palette command close the active tab. A three-finger click on macOS is resolved by cursor position.",
   "icon": "X",
   "tags": [
     "tabs",

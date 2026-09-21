@@ -1,7 +1,7 @@
 {
   "id": "claude-accounts",
   "displayName": "Fast Switch Claude Accounts",
-  "description": "Switch the machine's Claude Code login when a session hits its limit, without leaving BB. Saved logins live in the macOS Keychain; tokens never leave this computer. Cursor and Codex show limits only. Switching uses Anthropic OAuth and applies to new Claude threads. macOS only.",
+  "description": "Switch to another Claude login when the current session hits its limit, without leaving BB. See remaining quota, pick the account that still has it, and start the next thread. Saved logins stay in the macOS Keychain; tokens never leave this computer. Cursor and Codex show limits only. macOS only.",
   "icon": "Users",
   "tags": [
     "claude",
