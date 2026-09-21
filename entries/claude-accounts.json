@@ -1,0 +1,30 @@
+{
+  "id": "claude-accounts",
+  "displayName": "Fast Switch Claude Accounts",
+  "description": "Switch the machine's Claude Code login when a session hits its limit, without leaving BB. Saved logins live in the macOS Keychain; tokens never leave this computer. Cursor and Codex show limits only. Switching uses Anthropic OAuth and applies to new Claude threads. macOS only.",
+  "icon": "Users",
+  "tags": [
+    "claude",
+    "anthropic",
+    "accounts",
+    "limits",
+    "keychain",
+    "macos",
+    "oauth",
+    "cursor",
+    "codex"
+  ],
+  "author": {
+    "name": "Yuriy Egorov",
+    "github": "fzrx-ego",
+    "url": "https://yuriy-egorov.pages.dev"
+  },
+  "category": "agents-and-providers",
+  "source": {
+    "git": {
+      "url": "https://github.com/fzrx-ego/bb-plugin-claude-accounts.git",
+      "range": "^0.3.1"
+    }
+  },
+  "overview": "./overview/claude-accounts.md"
+}
