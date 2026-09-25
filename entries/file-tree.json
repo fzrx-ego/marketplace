@@ -21,6 +21,9 @@
     "url": "https://yuriy-egorov.pages.dev"
   },
   "category": "file-viewers-and-editors",
+  "screenshots": [
+    "./screenshots/file-tree/overview.png"
+  ],
   "source": {
     "git": {
       "url": "https://github.com/fzrx-ego/bb-plugin-file-tree.git",
